@@ -1,0 +1,7 @@
+{
+	"name": "SelfhostIRtest",
+	"properties": {
+		"type": "SelfHosted",
+		"description": "This is self host IR to test the dataflow behavior"
+	}
+}
